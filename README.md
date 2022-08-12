@@ -1,1 +1,1 @@
-First colloboration for gropu project
+README FILE FOR THE TEAM PROJECT
